@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\towor\\Desktop\\vscode\\csharp2\\csharp2.csproj": {}
+    "C:\\Users\\towor\\Desktop\\vscode\\csharp2-1\\csharp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\towor\\Desktop\\vscode\\csharp2\\csharp2.csproj": {
+    "C:\\Users\\towor\\Desktop\\vscode\\csharp2-1\\csharp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\towor\\Desktop\\vscode\\csharp2\\csharp2.csproj",
+        "projectUniqueName": "C:\\Users\\towor\\Desktop\\vscode\\csharp2-1\\csharp2.csproj",
         "projectName": "csharp2",
-        "projectPath": "C:\\Users\\towor\\Desktop\\vscode\\csharp2\\csharp2.csproj",
+        "projectPath": "C:\\Users\\towor\\Desktop\\vscode\\csharp2-1\\csharp2.csproj",
         "packagesPath": "C:\\Users\\towor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\towor\\Desktop\\vscode\\csharp2\\obj\\",
+        "outputPath": "C:\\Users\\towor\\Desktop\\vscode\\csharp2-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\towor\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,13 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!s");
+﻿using System;
 
-Console.WriteLine("Hello, World!qwdwqd");
+public class HelloWorld
+{
+    public static int func()
+    {
+        return 5;
+    }
+    public static void Main(string[] args)
+    {
+        Console.WriteLine ("Hello World");
+        Console.WriteLine (func());
+    }
+}
